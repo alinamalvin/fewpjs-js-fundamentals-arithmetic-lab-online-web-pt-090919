@@ -7,7 +7,7 @@ let multiply=num1*num2
 let random=Math.random()
 
 // Create a variable called mod set to an equation whose remainder is equal to "4".
-let mod=304/300
+let mod=19/5
 
 //Create a variable called max that will return "20" as the highest number in the set.
 let max=Math.max(1,5,10,15,20)
