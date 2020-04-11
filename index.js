@@ -1,5 +1,7 @@
 // Create a variable called multiply that will multiply the variables num1 and num2 whose results will equal "62".
-let num1=
+let num1=2
+let num2=31
+let multiply=num1*num2
 
 // Create a variable called random that will generate a random integer greater than 0.
 // Create a variable called mod set to an equation whose remainder is equal to "4".
